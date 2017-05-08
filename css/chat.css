@@ -1,0 +1,21 @@
+body {
+  background-color: ;
+  background: url("background.jpg") no-repeat fixed center;
+}
+
+.chatmsg p {
+  margin: 5px 0px;
+  color: white;
+}
+
+.chatmsg {
+  margin: 20px 0px;
+}
+
+
+input[type="text"],
+input[type="password"] {
+  background-color: grey;
+  border: 1px solid white;
+  margin: 5px;
+}
