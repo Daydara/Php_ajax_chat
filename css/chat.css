@@ -5,11 +5,13 @@ body {
 
 .chatmsg p {
   margin: 5px 0px;
-  color: white;
+  color: black;
+  font-size: 20px;
 }
 
 .chatmsg {
-  margin: 20px 0px;
+  margin: 20px 10px;
+
 }
 
 
